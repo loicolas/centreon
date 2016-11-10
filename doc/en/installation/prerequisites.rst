@@ -2,7 +2,7 @@
 Prerequisites
 =============
 
-The Centreon web interface is compatible with the following list of web broswer:
+The Centreon web interface is compatible with the following list of web browser:
 
 * Chrome (latest version)
 * Firefox (latest version)
